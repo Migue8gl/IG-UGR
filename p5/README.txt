@@ -3,7 +3,7 @@
 Autor: Miguel García López
 
 	º Para compilar el proyecto existe un script "makefile", escribir "make" en la terminal.
-	º Para ejecutarlo ./practica_objetos_B4.
+	º Para ejecutarlo ./practica_objetos_B5.
 	º Se ha integrado en el proyecto la funcionalidad de leer textura.
 	º Podemos visualizar de la siguiente manera:
 	
